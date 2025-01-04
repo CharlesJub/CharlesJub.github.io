@@ -1,6 +1,6 @@
 # About Me
 
-Analytics graduate student at the [Institute for Advanced Analytics](https://analytics.ncsu.edu) with a BS in Computer Science and hands-on experience from collegiate sports analytics. Mostly working in Python, R, and SQL, I combine technical expertise with practical applications in data science. I'm passionate about creative problem-solving, particularly in feature engineering where discovering new perspectives in data can dramatically improve model performance. In my free time by watching hockey games, hiking trails, and reading (typically fantasy) books[1].
+Analytics graduate student at the [Institute for Advanced Analytics](https://analytics.ncsu.edu) with a BS in Computer Science and hands-on experience in collegiate sports analytics. Mainly working in Python, R, and SQL, I combine technical expertise with practical applications in data science. I'm passionate about creative problem-solving, particularly in feature engineering, where discovering new perspectives in data can dramatically improve model performance. I watch hockey games, hike trails, and read (typically fantasy) books in my free time.
 
 # My Projects
 
@@ -14,7 +14,7 @@ A hockey statistics website based on baseball's Baseball Savant that extracts da
 
 [Github](https://github.com/CharlesJub/House-Tour-Pricing)
 
-A data science project analyzing luxury real estate content from YouTube to explore relationships between video content and property prices. Used Python to extract video data through YouTube's API, focusing on content from real estate creator Enes Yilmazer. The project involved cleaning text data from video titles, descriptions, and transcripts to extract home values and relevant features. Applied clustering to separate traditional homes from specialty assets (jets, yachts, RVs). Built an ensemble model using TF-IDF vectorization combined with features like word count, location mentions, and sentiment analysis to predict house prices, achieving a mean absolute percentage error of 3.5%.
+A data science project analyzing luxury real estate content from YouTube to explore relationships between video content and property prices. Used Python to extract video data through YouTube's API, focusing on content from real estate creator Enes Yilmazer. The project involved cleaning text data from video titles, descriptions, and transcripts to extract home values and relevant features—and applied clustering to separate traditional homes from specialty assets (jets, yachts, RVs). Built an ensemble model using TF-IDF vectorization combined with features like word count, location mentions, and sentiment analysis to predict house prices, achieving a mean absolute percentage error of 3.5%.
 
 **Coming Soon:**
 
