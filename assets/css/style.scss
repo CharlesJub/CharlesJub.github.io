@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.profile-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.profile-image {
+    max-width: 300px;
+    height: auto;
+}
+
+.content {
+    flex: 1;
+}
