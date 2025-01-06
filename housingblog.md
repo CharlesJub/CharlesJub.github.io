@@ -41,3 +41,12 @@
   - improved the model substantially
   - best model was ____ with a mape of
 - used pca to test if model would do better with *___________*
+- best model overall was a ensemble model with a ape of _______
+
+## Conclusion
+
+- it was challenging to get the data in a format that was able to model on
+- after getting the data in the right format, I was able to model on the data rather successfully 
+- the future plan
+    - create a dashboard that will try to predict if a video is a traditional house or a different type of asset. Will also try to predict the value of the house. Recognizing that the model will only do well on videos made by Enes because models look at the vocabulary he uses in these 
+    - model on more house tour channels. Difficult because they all have different ways of talking about homes, and will require different cleaning techniques to capture house prices automatically better. Maybe use an LLM to ask what the house price is based on title, description, and script. 
