@@ -28,3 +28,16 @@
     - the traditional homes included are not like Enes' other videos. they both contain less talking then standard videos and cover multiple houses
 
 ## Predicting House Prices
+
+- started by just using the tf-idf with a max of 1000 features to minimize overfiting, with no transformations to the target variable
+  - tried Linear Regression, LASSO, RIDGE, Random Forest, XGBoost, LightGBM, SVD, and an ensemble of all
+  - LASSO preformed the best on these simple inputs with a mape of _______
+- tried adding new features to capture different information
+  - added word count: videos tend to be longer when there is more sq footage
+  - added location flags: tried to capture general location of home by creating flags for common house locations like california, new york, or florida
+  - added sentiment to test if a summary of the word meaning mattered
+  - these only improve the model slightly
+- then tried to log transform because the data had some outlier house prices in the 200+ millions
+  - improved the model substantially
+  - best model was ____ with a mape of
+- used pca to test if model would do better with *___________*
